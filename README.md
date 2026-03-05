@@ -1,5 +1,18 @@
-### Ngx-Admin Angular 14 application from akveo.com
+# Instructions
 
-This is modified and more lightweight version of original application to practice UI Automation with Playwright.
+## Setup
 
-The original repo is here: https://github.com/akveo/ngx-admin
+- Clone the repository and open it in VS Code.
+
+- Download the "[Playwright Test for VSCode](https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright)" plugin.
+
+- Run `npm install`
+
+- Run `npm start`. Keep this terminal open.
+
+- Open http://localhost:4200/ in your browser.
+
+## Exercises
+
+Exercises can be found in `tests/`.
+Follow the ordering 1, 2, 3...
