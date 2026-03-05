@@ -3,6 +3,9 @@ import { NavigationPage } from "./navigationPage";
 import { FormLayoutPage } from "./formLayoutsPage";
 import { DatepickerPage } from "./datepickerPage";
 
+/**
+ * Used to navigate to different pages, i.e. the left side menu.
+ */
 export class PageManager {
     private readonly navigationPage: NavigationPage;
     private readonly formLayoutsPage: FormLayoutPage;

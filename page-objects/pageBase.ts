@@ -1,5 +1,9 @@
 import { Page } from '@playwright/test';
 
+/**
+ * Base class for all page objects.
+ * Contains common methods and properties that can be used across different pages.
+ */
 export class PageBase {
     readonly page: Page;
 
